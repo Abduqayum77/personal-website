@@ -222,22 +222,26 @@ h3 {
 .skill_img {
   width: 100px;
   margin: 0 15px;
+  padding-top: 20px;
 }
 .big-img {
   width: 6rem;
   height: 60px;
   margin: 4% 4% auto auto;
+  padding-top: 20px;
 }
 .vue_img {
   width: 9rem;
   margin: 3% auto 5% auto;
   display: flex;
+  padding-top: 25px;
 }
 .ci-cd-img {
   width: 6rem;
   height: 80px;
   margin: 4% auto auto auto;
   display: inline-flex;
+  padding-top: 20px;
 }
 /* .node_img {
   width: 70px;
@@ -250,8 +254,8 @@ h3 {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 0.5vw;
-  margin: 30px auto;
+  padding: 0.9vw;
+  margin: 70px auto 30px auto;
   border-radius: 0.2vw;
   text-decoration: none;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
